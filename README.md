@@ -1,6 +1,6 @@
 -  Hi, I am Mujtaba Hassan
--  I’m interested in Web Designing and Developing.
--  I’m currently learning Financial Accounting.
+-  I’m interested in Website Designing, Developing and DevOps engineering.
+-  I’m currently learning Cloud Computing.
 -  I’m looking to collaborate on Upwork.
 -  Contact me on hassanad1214@gmail.com
 
